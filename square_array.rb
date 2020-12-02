@@ -1,5 +1,5 @@
 def square_array(array)
-  bat = []
+  arr = []
   array.each { |i| arr << i ** 2 }
-  bat
+  arr
 end

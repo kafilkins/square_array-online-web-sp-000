@@ -1,3 +1,4 @@
 def square_array(array)
-  array.each
+  array.each do |arrays ** 2|
+    puts " #{arrays}"
 end
